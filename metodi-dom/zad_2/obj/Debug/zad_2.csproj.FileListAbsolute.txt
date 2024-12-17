@@ -1,0 +1,7 @@
+C:\Users\Admin\Desktop\programirane\metodi-dom\zad_2\bin\Debug\zad_2.exe.config
+C:\Users\Admin\Desktop\programirane\metodi-dom\zad_2\bin\Debug\zad_2.exe
+C:\Users\Admin\Desktop\programirane\metodi-dom\zad_2\bin\Debug\zad_2.pdb
+C:\Users\Admin\Desktop\programirane\metodi-dom\zad_2\obj\Debug\zad_2.csproj.AssemblyReference.cache
+C:\Users\Admin\Desktop\programirane\metodi-dom\zad_2\obj\Debug\zad_2.csproj.CoreCompileInputs.cache
+C:\Users\Admin\Desktop\programirane\metodi-dom\zad_2\obj\Debug\zad_2.exe
+C:\Users\Admin\Desktop\programirane\metodi-dom\zad_2\obj\Debug\zad_2.pdb

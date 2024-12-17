@@ -1,0 +1,7 @@
+C:\Users\Admin\Desktop\programirane\metodi-dom\metodi-dom\bin\Debug\metodi-dom.exe.config
+C:\Users\Admin\Desktop\programirane\metodi-dom\metodi-dom\bin\Debug\metodi-dom.exe
+C:\Users\Admin\Desktop\programirane\metodi-dom\metodi-dom\bin\Debug\metodi-dom.pdb
+C:\Users\Admin\Desktop\programirane\metodi-dom\metodi-dom\obj\Debug\metodi-dom.csproj.AssemblyReference.cache
+C:\Users\Admin\Desktop\programirane\metodi-dom\metodi-dom\obj\Debug\metodi-dom.csproj.CoreCompileInputs.cache
+C:\Users\Admin\Desktop\programirane\metodi-dom\metodi-dom\obj\Debug\metodi-dom.exe
+C:\Users\Admin\Desktop\programirane\metodi-dom\metodi-dom\obj\Debug\metodi-dom.pdb
